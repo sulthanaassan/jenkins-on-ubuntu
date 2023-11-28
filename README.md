@@ -12,3 +12,4 @@ sudo systemctl status jenkins
 /var/lib/jenkins/secrets/initialAdminPassword
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 history
+//jenkins on ubuntu // pkg.jenkins.io
